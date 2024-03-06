@@ -1,5 +1,5 @@
 ### Hi there 👋👍
-Sou Odair, estou começando minha carreiracomo programador web. atualmente estou cursando e criando projetos em :HTML,CSS e estou começando em JavaScript e React.📖📚
+Sou Odair, estou começando minha carreira como programador web. atualmente estou cursando e criando projetos em :HTML,CSS e estou começando em JavaScript e React.📖📚
 <br>
 <br>
 <h3>trabalho e projetos </h3>
